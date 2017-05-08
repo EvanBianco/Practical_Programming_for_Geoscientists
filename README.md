@@ -40,22 +40,10 @@ the course.
 |:-----------|
 | **Part 1** |
 | *Introductions* |
-| First steps: Opening Python and running code |
-| The Jupyter notebook |
-| Documentation using Markdown |
-| Using variables to store data |
+| Fundamentals of Programming
+| Intro to scientific computing |
 | **Part 2** |
-| Built-in functions and getting help |
-| The power of libraries |
-| Loading data with numpy |
-| Computing with numpy arrays |
-| Making plots with matplotlib |
-| **Part 3** |
-| Repeating actions with `for` loops |
-| Specifying conditions with `if` statements |
-| Making your own functions |
-| Bonus: Artisanal data input |
-| Bonus: Analysing our data with `numpy` and `scipy` |
+| 3 Practical Exercises and examples |
 
 ## What to install
 
