@@ -6,8 +6,7 @@
 May 11, 2017, 8:30 am - 4:00pm
 
 **Where**:
-geoLOGIC Classroom
-540 5th Ave SW
+geoLOGIC Classroom   540 5th Ave SW   Calgary, AB
 
 **What**:
 We will teach a hands-on introduction to the [Python](https://www.python.org/)
@@ -18,9 +17,8 @@ This is a crash course in the fundamentals of programming and scientific computi
 **Bring**:
 Participants must bring their own **computers** (Mac, Windows, or Linux) with the
 required **software already installed** (see [What to install](what-to-install)
-below).
-[Contact Evan] or [contact Matt] if you need any help **before**
-the course.
+below). [Contact Evan and Matt](https://agilescientific.com/contact-us/) if you need any help **before**
+the course. 
 
 
 ## Goals
