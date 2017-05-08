@@ -1,17 +1,5 @@
 # ~w L-30 lithology_sampling
 ~H MD Lithology
-365.8 Clay
-371.9 Clay
-426.7 Clay
-429.8 Sandstone
-432.8 Clay
-438.9 clay
-445.9 Siltstone
-446.8 Clay
-450.5 Siltstone
-451.7 Clay
-455.4 Siderite
-456.3 Clay
 463.3 Clay
 465.4 Sandstone
 466.3 Sandstone
