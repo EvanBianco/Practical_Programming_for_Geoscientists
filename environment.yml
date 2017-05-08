@@ -1,0 +1,17 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.5.2
+- numpy
+- matplotlib
+- scipy
+- jupyter
+- ipyparallel
+- tqdm
+- obspy
+- geopandas
+- folium
+- pip:
+  - lasio
+  - bruges
+  - welly
