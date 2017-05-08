@@ -1,7 +1,0 @@
-# L-30 lithology_sampling
-~H MD Lithology
-365.8 Clay
-371.9 Dolomite
-426.7 Clay
-429.8 Sandstone
-432.8 clay
